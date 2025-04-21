@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Udezi Nyerhovwo",
+            "email": "duchessdexi@gmail.com",
+            "number": "07079833835"
+        },
+        {
+            "id": 2,
+            "name": "Omov Blessed",
+            "email": "omovbudeblessed@gmail.com",
+            "number": "09053409548"
+        },
+        {
+            "id": 3,
+            "name": "Udezi Mena",
+            "email": "Menaudezi@yahoo.com",
+            "number": "08027272375"
+        },
+        {
+            "id": 4,
+            "name": "Jerry Emonena",
+            "email": "drizzyjae@hotmail.com",
+            "number": "09029700783"
+        }
+    ]
+}
